@@ -1,0 +1,240 @@
+Create a modern, visually striking single-page landing website (no database, no backend) for a street food brand called "La Gorda HDP".
+
+━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT ASSETS PROVIDED
+━━━━━━━━━━━━━━━━━━━━━━━
+
+- A logo file named: "LogoGOrdaFinito.png"
+  → You MUST use it prominently in the hero section and header.
+
+- A menu file named: "menu_la_gorda_v5.html"
+  → Use it as inspiration for:
+    - content
+    - structure
+    - tone of voice
+  → Do NOT copy it directly, reinterpret it visually for a landing page.
+
+- Food images will also be uploaded
+  → Use them even if they are not perfect.
+  → Authenticity is more important than perfection.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+GENERAL CONCEPT
+━━━━━━━━━━━━━━━━━━━━━━━
+
+La Gorda HDP is an Argentine street food take-away spot in Barcelona.
+
+It is:
+- A mix between a pizzeria and an empanadería
+- Also offers homemade alfajores
+- Take away only (NO seating)
+
+The brand is:
+RAW · STREET · LOUD · IRONIC · ICONIC
+
+This is NOT a restaurant.
+This is street culture translated into food.
+
+The website must feel like Buenos Aires street culture, especially La Boca.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+ART DIRECTION (CRITICAL)
+━━━━━━━━━━━━━━━━━━━━━━━
+
+This is NOT:
+- a clean website
+- a minimal website
+- a corporate website
+
+This IS:
+- chaotic but controlled
+- vibrant
+- imperfect
+- alive
+
+Think:
+- Painted metal sheets
+- Cracked walls
+- Graffiti
+- Old posters layered on top of each other
+- Hand-painted signs
+- Street typography
+
+The site must feel like walking in a street in Buenos Aires.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+TEXTURES & MATERIALS
+━━━━━━━━━━━━━━━━━━━━━━━
+
+Use backgrounds and sections that simulate real materials:
+
+- Painted walls (visible brush strokes)
+- Chipped paint / worn surfaces
+- Brick textures
+- Rough concrete
+- Torn posters layered
+- Spray paint / graffiti overlays
+
+Use CSS creatively:
+- texture overlays
+- gradients + noise
+- slight imperfections
+
+Nothing should feel flat.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+COLOR PALETTE
+━━━━━━━━━━━━━━━━━━━━━━━
+
+- Red: #D0201A
+- Blue: #1A4FA0
+- Yellow: #F5C518
+- Black / dark tones for contrast
+
+Use bold color blocks like La Boca houses.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+TYPOGRAPHY
+━━━━━━━━━━━━━━━━━━━━━━━
+
+- Titles: bold, condensed (Bebas Neue / Oswald style)
+- Accents: handwritten / street (Permanent Marker style)
+- Mix styles slightly for a dynamic look
+
+━━━━━━━━━━━━━━━━━━━━━━━
+PAGE STRUCTURE
+━━━━━━━━━━━━━━━━━━━━━━━
+
+1. HERO SECTION (FULL SCREEN)
+
+- Logo displayed prominently ("LogoGOrdaFinito.png")
+- Big title:
+  "LA GORDA HDP"
+
+- Subtitle:
+  "Empanadas caseras · Pizza · Alfajores · Malbec"
+
+- Main slogan (VERY visible):
+  "Un hombre sin panza es como un cielo sin estrellas"
+
+- Supporting tagline:
+  "Directo de Buenos Aires a Barcelona. Sin filtro, sin mesa, puro sabor."
+
+- Background:
+  textured wall / painted surface / street aesthetic
+
+- CTA button:
+  "VER MENÚ"
+
+- Add subtle hover/motion effects
+
+━━━━━━━━━━━━━━━━━━━━━━━
+2. BRAND SECTION ("Quiénes somos")
+
+Explain briefly:
+- Argentine street food
+- pizzeria + empanadería
+- empanadas with relleno casero
+- alfajores caseros
+- takeaway only
+
+Tone:
+informal, argentino, callejero
+
+Example energy:
+"Somos calle, somos masa, somos fuego."
+
+━━━━━━━━━━━━━━━━━━━━━━━
+3. HERO PRODUCTS
+
+Highlight 4 products:
+
+- Fugazzetta rellena (MAIN HERO — biggest focus)
+- Empanadas (relleno casero)
+- Pizza
+- Alfajores caseros
+
+Each:
+- image
+- short punchy description (1 line max)
+- hover animation (scale / movement)
+
+━━━━━━━━━━━━━━━━━━━━━━━
+4. MENU PREVIEW
+
+- Inspired by "menu_la_gorda_v5.html"
+- Categories:
+  Empanadas · Pizza · Alfajores · Bebidas
+
+- Visually bold (NOT a boring list)
+
+- CTA:
+  "VER MENÚ COMPLETO"
+
+━━━━━━━━━━━━━━━━━━━━━━━
+5. VISUAL GALLERY
+
+- Grid or collage style
+- Use uploaded real food images
+
+Apply:
+- high contrast
+- slight grain
+- saturation boost
+
+Must feel raw and authentic.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+6. LOCATION & INFO
+
+- Address:
+  Carrer Roger de Flor 167, Barcelona
+
+- Phone:
+  +34 647 00 68 82
+
+- Highlight clearly:
+  "TAKE AWAY ONLY"
+
+- Include simple map embed
+
+━━━━━━━━━━━━━━━━━━━━━━━
+7. FINAL CTA
+
+- Big visual section
+
+Text:
+"VENÍ A PROBAR LA VERDADERA GORDA"
+
+Button:
+"VENIR AHORA"
+
+━━━━━━━━━━━━━━━━━━━━━━━
+INTERACTIONS
+
+- Hover effects on buttons and images
+- Slight movement (scale, rotate, translate)
+- Keep it subtle but alive
+
+━━━━━━━━━━━━━━━━━━━━━━━
+TECH REQUIREMENTS
+
+- Single HTML file
+- Embedded CSS
+- Minimal JS (only if needed)
+- Fully responsive (mobile-first)
+- Fast loading
+
+━━━━━━━━━━━━━━━━━━━━━━━
+CREATIVE RULES (VERY IMPORTANT)
+
+- Imperfection = GOOD
+- Too clean = WRONG
+- Too aligned = WRONG
+- Personality > perfection
+- Must feel like a REAL PLACE, not a template
+
+━━━━━━━━━━━━━━━━━━━━━━━
+OUTPUT
+
+Provide complete working code in a single HTML file.
