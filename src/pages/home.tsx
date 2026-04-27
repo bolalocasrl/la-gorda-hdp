@@ -246,7 +246,7 @@ export default function Home() {
               </div>
               <div className="p-6">
                 <h3 className="text-4xl" style={fileteadoYellow}>Alfajores</h3>
-                <p>Dulce de leche serio.</p>
+                <p>Dulce de leche en serio.</p>
               </div>
             </div>
 
