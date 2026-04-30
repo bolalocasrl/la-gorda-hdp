@@ -133,7 +133,7 @@ export default function Home() {
 
           {/* CTA button: Rye with fileteado */}
           <button
-            onClick={() => window.open("/menu.html", "_blank")}
+            onClick={() => window.open("/MenuLaGordahdp.html", "_blank")}
             className="mt-14 mb-20 bg-black text-white text-4xl px-12 py-5 border-4 border-yellow-400 rotate-2 shadow-[6px_6px_0px_rgba(245,197,24,0.85)] rounded-sm transition-all duration-200 ease-out hover:scale-105 hover:-translate-y-1"
             style={fileteadoYellow}
             data-testid="button-ver-menu"
