@@ -191,7 +191,7 @@ export default function Home() {
             <div className="relative inline-block">
               <div className="bg-black px-8 py-3 rounded-sm shadow-[6px_6px_0px_rgba(0,0,0,0.85)] border-4 border-yellow-400 rotate-1">
                 {/* Section title: Rye + fileteado */}
-                <h2 className="text-6xl text-yellow-400" style={fileteadoYellow}>LO NUESTRO</h2>
+                <h2 className="text-4xl md:text-6xl text-yellow-400" style={fileteadoYellow}>LO NUESTRO</h2>
               </div>
               <span className="absolute -top-4 -left-6 bg-[#D0201A] text-white font-bebas text-sm px-3 py-1 rotate-[-10deg] shadow-xl z-10 pointer-events-none">🔥 HOT</span>
             </div>
@@ -380,7 +380,7 @@ export default function Home() {
             <div className="relative inline-block">
               <div className="bg-black px-8 py-3 rounded-sm shadow-[6px_6px_0px_rgba(0,0,0,0.85)] border-4 border-black rotate-1 outline outline-2 outline-white/60 outline-offset-[-6px]">
                 {/* CONTACTO title: Rye + fileteado */}
-                <h2 className="text-6xl md:text-7xl text-white" style={fileteadoWhite}>CONTACTO</h2>
+                <h2 className="text-4xl md:text-7xl text-white" style={fileteadoWhite}>CONTACTO</h2>
               </div>
               <span className="absolute -top-4 -left-6 bg-[#1A4FA0] text-yellow-400 font-bebas text-xs px-2 py-1 rotate-[-8deg] shadow-xl z-10 pointer-events-none">📍 BCN</span>
             </div>
