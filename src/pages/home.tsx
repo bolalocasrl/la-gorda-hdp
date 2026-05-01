@@ -288,10 +288,13 @@ export default function Home() {
         <div className="relative z-10">
           <div className="text-center mb-12">
             <div className="relative inline-block">
-              <div className="bg-black px-8 py-3 rounded-sm shadow-[6px_6px_0px_rgba(0,0,0,0.9)] border-4 border-yellow-400 rotate-[-1deg]">
-                {/* MENÚ title: Rye + fileteado */}
-                <h2 className="text-6xl text-yellow-400" style={fileteadoYellow}>MENÚ</h2>
-              </div>
+             <div
+  className="bg-black px-8 py-3 rounded-sm shadow-[6px_6px_0px_rgba(0,0,0,0.9)] border-4 border-yellow-400 rotate-[-1deg] cursor-pointer transition-all duration-200 ease-out hover:scale-105"
+  onClick={() => window.open("/MenuLaGordahdp.html", "_blank")}
+>
+  {/* MENÚ title: Rye + fileteado */}
+  <h2 className="text-6xl text-yellow-400" style={fileteadoYellow}>MENÚ</h2>
+</div>
               <span className="absolute -top-4 -right-7 bg-[#D0201A] text-white font-bebas text-xs px-2 py-1 rotate-6 shadow-xl z-10 pointer-events-none whitespace-nowrap">¡PEDÍ YA! 🥟</span>
             </div>
           </div>
