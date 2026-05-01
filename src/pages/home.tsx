@@ -417,6 +417,15 @@ export default function Home() {
               >
                 VER EN EL MAPA
               </a>
+              
+                href="https://www.instagram.com/kukpizzas/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-black text-white font-bebas text-2xl px-8 py-3 inline-block shadow-[6px_6px_0px_rgba(0,0,0,0.7)] border-2 border-yellow-400 rotate-1 w-full text-center transition-all duration-200 ease-out hover:scale-105 hover:-translate-y-1"
+                data-testid="link-instagram"
+              >
+                📷 SEGUICI SU INSTAGRAM
+              </a>
             </div>
 
             {/* RIGHT — locale photo */}
