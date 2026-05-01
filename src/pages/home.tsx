@@ -6,18 +6,18 @@ import bluWallPath from "@assets/bluhdp_1777042587612.webp";
 import redWallPath from "@assets/rossohdp_1777042587620.webp";
 import brownWallPath from "@assets/marronehdp_1777042587620.webp";
 
-import imgEmpanadasRaw from "@assets/WhatsApp_Image_2026-04-10_at_01.37.22_1776715073714.jpeg";
-import imgPizzaEntera from "@assets/WhatsApp_Image_2026-04-10_at_01.44.15_1776715073724.jpeg";
-import imgCornetti from "@assets/cornetti_1776715090711.jpeg";
-import imgIngredientes from "@assets/WhatsApp_Image_2026-04-10_at_01.37.22_1776715090726.jpeg";
-import imgMalbec from "@assets/WhatsApp_Image_2026-04-10_at_01.40.17_1776715090726.jpeg";
-import imgPizzaSlice from "@assets/WhatsApp_Image_2026-04-10_at_01.44.14_1776715090726.jpeg";
-import imgEmpanadasAbiertas from "@assets/WhatsApp_Image_2026-04-10_at_01.44.15_1776715090726.jpeg";
-import imgEmpanada from "@assets/WhatsApp_Image_2026-04-10_at_01.44.16_1776715090727.jpeg";
-import imgAlfajores from "@assets/Alfajores_sito_1776793822676.png";
-import imgTortaSito from "@assets/TortaSito_1776793901739.jpeg";
-import imgLocale from "@assets/LocaleLaGorda_1776794258488.png";
-import imgUltimaSito from "@assets/ultimasito_1776794964736.png";
+import imgEmpanadasRaw from "@assets/WhatsApp Image 2026-04-10 at 01.37.22.webp";
+import imgPizzaEntera from "@assets/WhatsApp Image 2026-04-10 at 01.44.15.webp";
+import imgCornetti from "@assets/cornetti.webp";
+import imgIngredientes from "@assets/WhatsApp Image 2026-04-10 at 01.37.22.webp";
+import imgMalbec from "@assets/WhatsApp Image 2026-04-10 at 01.40.17.webp";
+import imgPizzaSlice from "@assets/WhatsApp Image 2026-04-10 at 01.44.14.webp";
+import imgEmpanadasAbiertas from "@assets/WhatsApp Image 2026-04-10 at 01.44.15.webp";
+import imgEmpanada from "@assets/WhatsApp Image 2026-04-10 at 01.44.16.webp";
+import imgAlfajores from "@assets/Alfajores sito.webp";
+import imgTortaSito from "@assets/TortaSito.webp";
+import imgLocale from "@assets/LocaleLaGorda.webp";
+import imgUltimaSito from "@assets/ultimasito.webp";
 
 const wallBg = {
   backgroundImage: `url(${wallPath})`,
