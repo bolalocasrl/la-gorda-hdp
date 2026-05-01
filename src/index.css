@@ -232,8 +232,17 @@
   to   { transform: translateX(-50%); }
 }
 .carousel-track {
-  animation: carousel-scroll 22s linear infinite;
+  animation: carousel-scroll 18s linear infinite;
   will-change: transform;
+  display: flex;
+  align-items: center;
+}
+.carousel-track img {
+  height: 10rem;
+  width: auto;
+  flex-shrink: 0;
+  margin-right: 0.5rem;
+  object-fit: cover;
 }
 
 @layer utilities {
