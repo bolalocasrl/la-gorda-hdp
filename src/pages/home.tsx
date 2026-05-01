@@ -417,7 +417,7 @@ export default function Home() {
               >
                 VER EN EL MAPA
               </a>
-              
+              <a
                 href="https://www.instagram.com/kukpizzas/"
                 target="_blank"
                 rel="noopener noreferrer"
