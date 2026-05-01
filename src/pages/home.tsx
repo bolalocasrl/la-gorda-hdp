@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import logoPath from "@assets/LogoGorda_1776793858173.png";
-import heroLogoPath from "@assets/LogoFinitosfondotrasparente_1776708242283.png";
+import logoPath from "@assets/LogoGorda.webp";
+import heroLogoPath from "@assets/LogoFinitosfondotrasparente.webp";
 import wallPath from "@assets/SfondoGordahdp_1777040737766.webp";
 import bluWallPath from "@assets/bluhdp_1777042587612.webp";
 import redWallPath from "@assets/rossohdp_1777042587620.webp";
